@@ -1,0 +1,10 @@
+C:\Users\ADmin\Documents\GitHub\studene-csv\Student csv\bin\Debug\Student csv.exe.config
+C:\Users\ADmin\Documents\GitHub\studene-csv\Student csv\bin\Debug\Student csv.exe
+C:\Users\ADmin\Documents\GitHub\studene-csv\Student csv\bin\Debug\Student csv.pdb
+C:\Users\ADmin\Documents\GitHub\studene-csv\Student csv\obj\Debug\Student csv.csproj.AssemblyReference.cache
+C:\Users\ADmin\Documents\GitHub\studene-csv\Student csv\obj\Debug\Student_csv.Form1.resources
+C:\Users\ADmin\Documents\GitHub\studene-csv\Student csv\obj\Debug\Student_csv.Properties.Resources.resources
+C:\Users\ADmin\Documents\GitHub\studene-csv\Student csv\obj\Debug\Student csv.csproj.GenerateResource.cache
+C:\Users\ADmin\Documents\GitHub\studene-csv\Student csv\obj\Debug\Student csv.csproj.CoreCompileInputs.cache
+C:\Users\ADmin\Documents\GitHub\studene-csv\Student csv\obj\Debug\Student csv.exe
+C:\Users\ADmin\Documents\GitHub\studene-csv\Student csv\obj\Debug\Student csv.pdb
